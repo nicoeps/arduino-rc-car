@@ -1,5 +1,6 @@
 # Arduino RC sensor car 
 A radio controlled car which collects sensor data. Made for an electronics class.
+
 | Car                  | Controller                         |
 |----------------------|------------------------------------|
 | ![Car](pics/car.png) | ![Controller](pics/controller.png) |
